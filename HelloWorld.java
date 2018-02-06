@@ -1,3 +1,5 @@
+package com.mycompany.app.my-app
+
 public class HelloWorld {
    public static void main(String[] args) {
       // Prints "Hello, World" in the terminal window.
