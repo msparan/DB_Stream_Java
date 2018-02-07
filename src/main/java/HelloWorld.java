@@ -1,4 +1,4 @@
-package 
+package com.mycompany.app.my-app
 
 public class HelloWorld {
    public static void main(String[] args) {
